@@ -104,7 +104,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 4. Arayüz
-st.markdown('<div class="big-title">☎️ DuyguCell ☎️</div>', unsafe_allow_html=True)
+st.markdown('<div class="big-title">☎️ DuyguCell </div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">"Modunu arama hattı."<br>Bugünkü seni yaz. Aramayı başlat.</div>', unsafe_allow_html=True)
 st.write("") # Küçük bir boşluk
 
